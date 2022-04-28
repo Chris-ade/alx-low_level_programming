@@ -11,8 +11,8 @@ void _puts_recursion(char *str)
 
 	while (str[i])
 	{
-		putchar(str[i]);
+		_putchar(str[i]);
 		i++;
 	}
-	  putchar('\n');
+	  _putchar('\n');
 }
