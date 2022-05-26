@@ -3,7 +3,7 @@
 #include "lists.h"
 
 /**
-* pop_listint - deletes the head node of a linked list,returns the head node’s data.
+* pop_listint - deletes the head node of a linked list
 * @head: pointer double.
 * Return: data.
 */
