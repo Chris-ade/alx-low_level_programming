@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * _strlen - funtion count len of char.
  * @s: count string.
@@ -48,5 +48,3 @@ return (-1);
 }
 return (1);
 }
-
-
