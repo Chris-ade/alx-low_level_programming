@@ -1,6 +1,9 @@
-C - Search Algorithms
+# alx-low_level_programming
 
-This was my Holberton School project on search algorithms. I implemented various types of search algorithms and stated the corresponding space/time complexities for each.
+0x1E. C - Search Algorithms -> Chris Adebiyi
+
+A project on search algorithms. 
+I implemented various types of search algorithms and stated the corresponding space/time complexities for each.
 Tests heavy_check_mark
 
     tests: Folder of test files for all tasks. Provided by Alx School.
